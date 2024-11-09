@@ -49,7 +49,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="sivanesanr17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="sivanesanr17" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sivanesanr17?font=poppins&width=500&height=200)](https://leetcode.com/sivanesanr17)
 
