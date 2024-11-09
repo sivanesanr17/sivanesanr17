@@ -21,8 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sivanesanr17" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="sivanesanr17" height="50" width="50" /></a>
-<a href="https://instagram.com/_sivasharan_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="_sivasharan_" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/sivanesanr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivanesanr17" height="30" width="40" /></a>
+<a href="https://instagram.com/_sivasharan_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="_sivasharan_" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/sivanesanr17" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="sivanesanr17" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
