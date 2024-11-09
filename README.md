@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://sivanesanr17.github.io/Portfolio/](https://sivanesanr17.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sivanesanr17.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, Designs**
 
 - 📫 How to reach me **cnpnesan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing](https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
