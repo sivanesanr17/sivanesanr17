@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="sivanesanr17" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sivanesanr17?font=poppins&width=500&height=100)](https://leetcode.com/sivanesanr17)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sivanesanr17?font=poppins&width=400&height=80&ext=activity&fontSize=10)](https://leetcode.com/sivanesanr17)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesanr17&" alt="sivanesanr17" /></p>
