@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)
+![MasterHead](https://res.cloudinary.com/dyox9vtgi/image/upload/v1731152682/Banner_gif_giyufw.gif)
 <h1 align="center">Hi 👋, I'm Sivanesan</h1>
 <h3 align="center">Skilled Programmer and UI/UX Designer</h3>
 
