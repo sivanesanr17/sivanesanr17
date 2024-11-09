@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="sivanesanr17" /></p>
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=firacode)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=patrick_hand)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesanr17&" alt="sivanesanr17" /></p>
