@@ -24,14 +24,16 @@
 <a href="https://instagram.com/_sivasharan_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="_sivasharan_" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages & Database:</h3>
+<h3 align="left">Languages & Databases:</h3>
 <p align="left"> 
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" height="50" width="50" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/python.png" alt="python" height="50" width="50" /></a>
 <a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" height="50" width="50" /></a>
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" height="50" width="50" /></a>
 <a href="https://html.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" height="50" width="50" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/css3.png" height="50" width="50" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/css3.png" alt="css" height="50" width="50" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo" height="50" width="50" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo" height="50" width="50" /></a>
 </p>
 
 
