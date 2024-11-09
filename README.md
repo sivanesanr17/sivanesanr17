@@ -1,9 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/dyox9vtgi/image/upload/v1731153235/Bannergif-ezgif.com-crop_3_fhswl6.gif)
 <h1 align="center">Hi 👋, I'm Sivanesan</h1>
 <h3 align="center">Skilled Programmer and UI/UX Designer</h3>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
-
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=sivanesanr17&icon=3&color=1" alt="sivanesanr17" /> </p>
 
 - 🔭 I’m pursuing studies on [PSNA College of Engineering and Technology](https://www.psnacet.edu.in/)
