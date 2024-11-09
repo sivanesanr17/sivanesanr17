@@ -53,5 +53,3 @@
 
 <p><img src="https://leetcard.jacoblin.cool/sivanesanr17?font=segoe_ui&width=500&height=200" alt="Leetcode Stats" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesanr17&" alt="sivanesanr17" /></p>
