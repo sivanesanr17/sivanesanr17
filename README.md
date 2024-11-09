@@ -49,8 +49,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&bg_color=101010&text_color=FFFFFF&border=1&border_color=FFFFFF33&icon_color=FFFFFF&title_color=FFFFFF" alt="sivanesanr17" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact&bg_color=101010&text_color=FFFFFF&border=1&border_color=FFFFFF33&icon_color=FFFFFF&title_color=FFFFFF" alt="sivanesanr17" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sivanesanr17?font=segoe_ui&width=500&height=200)](https://leetcode.com/sivanesanr17)
+<p><img src="https://leetcard.jacoblin.cool/sivanesanr17?font=segoe_ui&width=500&height=200" alt="Leetcode Stats" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesanr17&" alt="sivanesanr17" /></p>
