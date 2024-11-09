@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://www.java.com/en" target="blank"><img align="center" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" height="50" width="50" /></a>
+<a href="https://www.java.com/en" target="blank"><img align="center" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" height="60" width="60" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/python.png" alt="python" height="50" width="50" /></a>
 </p>
 
