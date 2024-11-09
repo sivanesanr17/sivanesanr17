@@ -1,10 +1,10 @@
-![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)
+[![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)]
 <h1 align="center">Hi 👋, I'm Sivanesan</h1>
 <h3 align="center">Skilled Programmer and UI/UX Designer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesanr17&label=Profile%20views&color=0e75b6&style=flat" alt="sivanesanr17" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=sivanesanr17&icon=3&color=1" alt="sivanesanr17" /> </p>
 
 - 🔭 I’m pursuing studies on [PSNA College of Engineering and Technology](https://www.psnacet.edu.in/)
 
