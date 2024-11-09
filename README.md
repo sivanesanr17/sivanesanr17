@@ -38,7 +38,15 @@
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db" height="50" width="50" /></a>
 </p>
 
-
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left"> 
+<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea" height="50" width="50" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2" height="50" width="50" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" height="50" width="50" /></a>
+<a href="https://www.figma.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1" height="50" width="50" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" height="50" width="50" /></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1" height="50" width="50" /></a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesanr17&show_icons=true&locale=en&layout=compact" alt="sivanesanr17" /></p>
